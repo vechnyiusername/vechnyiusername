@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on AstanaHub
 - 📫 How to reach me on Instagram
-- 😄 Pronouns: ...
+- 😄 Handle: Zhako
 - ⚡ Fun fact: My best in row push-ups 50 reps
 
 <!---
